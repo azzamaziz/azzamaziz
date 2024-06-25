@@ -40,6 +40,6 @@ A coder enthusiast who is not afraid to venture into new stacks!
 
 Like to do the open-source project? Let's discuss some possible projects we can work on!
 
-![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=sendtoazzam&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=mohamadazzam&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats-x6s6.vercel.app/api/top-langs/?username=sendtoazzam&layout=compact&theme=transparent&hide=html,css,java,c%2B%2B,blade,cmake,swift,lua,arduino,c,kotlin,objective-c,vue,shell,dockerfile)
